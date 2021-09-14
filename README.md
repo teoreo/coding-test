@@ -32,3 +32,4 @@ Feel free to use any template language of your choice i.e Nunjucks, EJS, Mustach
 
 We will only test your site in the newest Chrome/Firefox browser so feel free to use `html5`, `css3`, `es6`, `canvas` or anything else you need. If you need to use a nightly build don't forget to tell us!
 # coding-test
+# coding-test
