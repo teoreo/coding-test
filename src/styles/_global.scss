@@ -1,0 +1,17 @@
+@use "variables";
+body {
+    margin: 0;
+    background-color: variables.$bg;
+    color: black;
+    font-size: 30px;
+}
+main {
+    display: flex;
+}
+
+button {
+    background-color: black;
+    :hover{
+        background-color: #35c092;
+    }
+}
